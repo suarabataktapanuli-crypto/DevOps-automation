@@ -1,0 +1,5 @@
+{
+  "name": "Bambang Hutagalung: Concurrent Web Scraper Command Center",
+  "description": "A high-performance web scraping dashboard simulating a Go-like concurrency engine with goroutines/channels architecture. Features real-time worker monitoring, health cards, and terminal logs.",
+  "requestFramePermissions": []
+}
